@@ -1,0 +1,2 @@
+name = 'Yuyu'
+print("I am " + name + " from AirAsia")
